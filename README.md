@@ -23,3 +23,5 @@ The disabled option should now be in focus.
 ### Firefox
 
 This issue doesn't happen in latest Firefox.
+
+![image](https://user-images.githubusercontent.com/485747/117896117-2e6b7480-b303-11eb-8878-b4f9a7cd2f21.png)
