@@ -6,6 +6,20 @@ This is a minimal Vite + Vue 3 setup. To get setup:
 yarn && yarn dev
 ```
 
-To reproduce the issue, open the ListboxOptions, click on the disabled option (Simon) and then navigate up or down with the arrow keys.
+To reproduce the issue:
+
+### Safari
+
+Open the ListboxOptions, click on the disabled option (Simon).
 
 The disabled option should now be in focus.
+
+### Chrome
+
+Open the ListboxOptions, click on the disabled option (Simon) and then navigate up or down with the arrow keys.
+
+The disabled option should now be in focus.
+
+### Firefox
+
+This issue doesn't happen in latest Firefox.
